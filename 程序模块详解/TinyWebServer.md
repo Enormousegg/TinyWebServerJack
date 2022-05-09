@@ -70,7 +70,7 @@
 
 #### 服务器编程基本框架
 
-![image-20220408093640801](D:\笔记\TinyWebServer\image-20220408093640801.png)
+![image-20220408093640801](https://github.com/Enormousegg/TinyWebServerJack/blob/master/%E7%A8%8B%E5%BA%8F%E6%A8%A1%E5%9D%97%E8%AF%A6%E8%A7%A3/image-20220408093640801.png)
 
 主要由I/O单元，逻辑单元和网络存储单元组成，其中每个单元之间通过请求队列进行通信，从而协同完成任务。
 
