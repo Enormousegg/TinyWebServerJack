@@ -1,0 +1,12 @@
+[0;1;32m●[0m mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Mon 2022-03-28 14:32:04 CST; 3min 51s ago
+   Main PID: 7302 (mysqld)
+     Status: "Server is operational"
+      Tasks: 37 (limit: 9151)
+     Memory: 357.6M
+     CGroup: /system.slice/mysql.service
+             └─7302 /usr/sbin/mysqld
+
+3月 28 14:32:03 jacky systemd[1]: Starting MySQL Community Server...
+3月 28 14:32:04 jacky systemd[1]: Started MySQL Community Server.
